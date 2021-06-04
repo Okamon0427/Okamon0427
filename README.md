@@ -1,7 +1,7 @@
-<h1>Hi there, I'm Takuto 👋</h1>
-<h5>I'm working for BStar Solutions as a Front End Developer, and also studying Software Engineering at Sheridan College</h3>
+# Hi there, I'm Takuto 👋
+### I'm working for BStar Solutions as a Front End Developer, and also studying Software Engineering at Sheridan College
 
-<h2>Tech Stack</h2>
+## Tech Stack
 <h3>
   <p>Languages:</p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -66,7 +66,6 @@
   </a>
 </h3>
 
-<h2 align="left">Connect with me</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/takuto-okamoto/" target="blank">LinkedIn</a>
-</p>
+## Connect with me
+[<img src="https://img.shields.io/badge/LinkedIn-2867B2?style=flat-square&logo=linkedin&labelColor=2867B2" height="25" />](https://www.linkedin.com/in/takuto-okamoto/)
+[<img src="https://img.shields.io/badge/Email-BB001B?style=flat-square&logo=gmail&labelColor=BB001B&logoColor=white" height="25" />](mailto:takutookamoto0427@gmail.com)
