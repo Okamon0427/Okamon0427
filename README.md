@@ -1,14 +1,14 @@
 # Hi there, I'm Takuto 👋
-### I'm working for BStar Solutions as a Front End Developer, and also studying Software Engineering at Sheridan College.
+### I'm working for iRestify as a Full Stack Developer, and also studying Software Engineering at Sheridan College.
 
 ```javascript
 const takuto = {
   techs: {
     language: ["JavaScript", "TypeScript", "Java", "PHP"],
     frontEnd: ["HTML", "CSS", "React", "Redux", "jQuery"],
-    backEnd: ["Node.js", "Express", "Spring"],
+    backEnd: ["Node.js", "Express", "Spring Boot"],
     database: ["MongoDB", "MySQL"],
-    other: ["GitHub", "GitLab", "Firebase", "Heroku", "Postman", "WordPress"]
+    other: ["GitHub", "GitLab", "Firebase", "Heroku", "WordPress"]
   },
   favorite: ["sushi", "baseball", "movies", "singing"],
   address: "Toronto, ON",
