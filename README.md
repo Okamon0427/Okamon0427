@@ -4,12 +4,11 @@
 ```javascript
 const takuto = {
   techs: {
-    language: ["JavaScript", "TypeScript", "Java", "PHP"],
-    frontEnd: ["HTML", "CSS", "React", "Redux", "jQuery"],
-    backEnd: ["Node.js", "Express", "Spring Boot"],
-    database: ["MongoDB", "MySQL"],
+    frontEnd: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Redux", "jQuery"],
+    backEnd: ["Node.js", "Express", "Java", "Spring Boot", "PHP"],
+    database: ["MySQL", "PostgreSQL", "MongoDB"],
     devOps: ["Docker", "AWS"],
-    other: ["GitHub", "GitLab", "Firebase", "Heroku", "WordPress"]
+    other: ["GitHub", "Figma", "Jira", "Firebase", "Heroku", "WordPress"]
   },
   favorite: ["sushi", "baseball", "movies", "singing"],
   address: "Toronto, ON",
