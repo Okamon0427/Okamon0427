@@ -1,5 +1,5 @@
 # Hi there, I'm Takuto 👋
-### I'm working for iRestify as a Associate Software Developer
+### I'm working for Genesys as a Associate Software Developer
 
 ```javascript
 const takuto = {
