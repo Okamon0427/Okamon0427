@@ -1,5 +1,5 @@
 # Hi there, I'm Takuto 👋
-### I'm working for iRestify as a Full Stack Developer, and also studying Software Engineering at Sheridan College.
+### I'm working for iRestify as a Associate Software Developer
 
 ```javascript
 const takuto = {
