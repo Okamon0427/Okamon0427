@@ -4,8 +4,8 @@
 ```javascript
 const takuto = {
   techs: {
-    frontEnd: ["JavaScript", "TypeScript", "React", "Vue.js"],
-    backEnd: ["Node.js", "Express", "Java", "Spring Boot"],
+    frontEnd: ["JavaScript", "TypeScript", "React", "Angular"],
+    backEnd: ["Node.js", "Java", "Python"],
     database: ["MySQL", "PostgreSQL", "MongoDB"],
     Others: ["Docker", "AWS", "Figma", "Jira", "Firebase"]
   },
